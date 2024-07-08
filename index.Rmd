@@ -1,0 +1,31 @@
+---
+title: "Notas para el curso de programación"
+author: "Fabiola García Rangel"
+date: "2024-07-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Notas para el curso de programación
+Bienvenido a este curso de programación. En este curso aprenderás a programar en R. Esta es la página principal del curso.
+
+## Objetivos
+En el curso usted aprenderá a programar en RStudio y en R y a publicar sus páginas en línea
+
+## Usuarios 
+Personal dedicado a la docencia y la investigación que desea publicar sus notas en línea de manera gratuita o sus resultados de investigación para fines de investigación
+
+# Contenido
+Este es el contenido
+
+## Tema 1
+
+Contenido del tema 1
+
+## Tema 2
+
+Contenido del tema 2
+
